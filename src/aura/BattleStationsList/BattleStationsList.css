@@ -1,0 +1,6 @@
+.THIS .myClass {
+  display: block;
+  height: 700px;
+  min-height: 700px;
+  overflow-y: scroll;
+}

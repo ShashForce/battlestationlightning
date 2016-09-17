@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>BattleStationUtil</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>BattleStationDetail</members>
+        <members>BattleStationItem</members>
+        <members>BattleStationsList</members>
+        <members>ResourceList</members>
+        <members>StationClickEvent</members>
+        <members>StationRelatedLists</members>
+        <members>SupplyList</members>
+        <members>updatedListEvent</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <version>37.0</version>
+</Package>
